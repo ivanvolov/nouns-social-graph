@@ -1,9 +1,8 @@
 import React, { useRef, useState } from "react";
 import Network from "react-vis-network-graph";
 import Grid from "@mui/material/Grid";
-import __data from "./data2.json";
 
-const Graph = () => {
+const Graph = ({ __data }) => {
     const graphRef = useRef(null);
     __data.nodes = __data.nodes.map((i) => {
         return { ...i, label: undefined, name: undefined };

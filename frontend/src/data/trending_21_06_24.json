@@ -122,15 +122,43 @@
     }
   ],
   "edges": [
+    { "from": "onchain gaias", "to": "Mochimons", "width": 5.2489 },
     {
-      "from": "Bomefers",
-      "to": "Remy Boys",
-      "width": 2
+      "from": "Metawin Tokenized Cybertruck",
+      "to": "Mochimons",
+      "width": 1.7636
+    },
+    { "from": "swatches by jvmi", "to": "Calamity: Artifacts", "width": 1.437 },
+    { "from": "swatches by jvmi", "to": "Based Fellas", "width": 1.4311 },
+    { "from": "Based Ape Gang", "to": "Bomefers", "width": 1.149 },
+    {
+      "from": "Based Ape Gang",
+      "to": "Common Wealth Genesis NFT Series 1",
+      "width": 1.4236
+    },
+    { "from": "MagicBooks", "to": "VeeCon 2024 Tickets", "width": 1.176 },
+    {
+      "from": "Common Wealth Genesis NFT Series 1",
+      "to": "Bomefers",
+      "width": 1.0698
     },
     {
-      "from": "Remy Boys",
-      "to": "Bomefers",
-      "width": 4
+      "from": "Common Wealth Genesis NFT Series 1",
+      "to": "Based Fellas",
+      "width": 1.1967
+    },
+    { "from": "Calamity: Artifacts", "to": "Remy Boys", "width": 0.9669 },
+    { "from": "Remy Boys", "to": "Bomefers", "width": 4.0 },
+    { "from": "based punks", "to": "Dryads", "width": 5.9827 },
+    {
+      "from": "based punks",
+      "to": "Get Based \"Based Summer\" Poster",
+      "width": 5.8531
+    },
+    {
+      "from": "Dryads",
+      "to": "Get Based \"Based Summer\" Poster",
+      "width": 1.2722
     }
   ]
 }
