@@ -61,48 +61,7 @@ const Graph = () => {
 
     return (
         <Grid container>
-            <Grid item md={2}>
-                <div style={{ display: "flex" }}>
-                    {nodeData.nodes.map((el) => (
-                        <div
-                            draggable={true}
-                            key={el.id}
-                            data-label={el.label}
-                            data-name={el.name}
-                            data-image={el.image}
-                            style={{
-                                display: "flex",
-                                flexDirection: "row",
-                                borderRadius: "20%",
-                                width: "50px",
-                                height: "50px",
-                                justifyContent: "center",
-                                alignItems: "center",
-                            }}
-                            onDragEnd={() => {
-                                setData({
-                                    nodes: [
-                                        ...data.nodes,
-                                        {
-                                            id: el.id,
-                                            name: el.name,
-                                            shape: "image",
-                                            image: el.image,
-                                            size: 15,
-                                            label: el.label,
-                                        },
-                                    ],
-                                    edges: [...data.edges, { from: el.id, to: "AWS" }],
-                                });
-                            }}
-                        >
-                            <img src={el.image} width="60%" height="60%" />
-                        </div>
-                    ))}
-                </div>
-            </Grid>
-
-            <Grid item md={7} style={{ display: "flex" }}>
+            <Grid item md={12} style={{ display: "flex" }}>
                 <Network
                     graph={data}
                     ref={graphRef}
@@ -162,28 +121,19 @@ const Graph = () => {
                     style={{ display: "flex", height: "40rem" }}
                 />
             </Grid>
-            <Grid item md={12} style={{ display: "flex", justifyContent: "space-around" }}>
-                <Button
-                    variant="contained"
-                    onClick={() => {
-                        sessionStorage.setItem("set", "yes");
-                        graphRef.current.updateGraph();
-                    }}
-                >
-                    Price Tagger
-                </Button>
-                <Button
-                    variant="contained"
-                    onClick={() => {
-                        sessionStorage.setItem("set", "no");
-                        graphRef.current.updateGraph();
-                    }}
-                >
-                    Cura
-                </Button>
-            </Grid>
         </Grid>
     );
 };
 
 export default Graph;
+
+// variant="contained"
+// onClick={() => {
+//     sessionStorage.setItem("set", "no");
+//     graphRef.current.updateGraph();
+// }}
+
+// onClick={() => {
+//     sessionStorage.setItem("set", "yes");
+//     graphRef.current.updateGraph();
+// }}
