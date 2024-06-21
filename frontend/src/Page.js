@@ -59,7 +59,7 @@ const Page = () => {
                     <div class="col-9">
                         <div class="card" id="1">
                             <div class="top">
-                                <div class="userDetails">
+                                {/* <div class="userDetails">
                                     <div class="profilepic">
                                         <div class="profile_img">
                                             <div class="image">
@@ -75,6 +75,20 @@ const Page = () => {
                                         <br />
                                         <span>Mumbai, India</span>
                                     </h3>
+                                </div> */}
+                                <div class="userDetails">
+                                    <div class="profilepic">
+                                        <div class="profile_img">
+                                            <div class="image">
+                                                <img src="./Zorb.png" alt="img8" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <h3>
+                                        Zora | Trending
+                                        <br />
+                                        <span>Base Blockchain</span>
+                                    </h3>
                                 </div>
                                 <div>
                                     <span class="dot">
@@ -88,11 +102,11 @@ const Page = () => {
                             <div class="bottom">
                                 <div class="actionBtns">
                                     <div class="left">
-                                        <a href="#">
+                                        {/* <a href="#">
                                             <p class="message">
                                                 <b>Base & Zora Collections</b>
                                             </p>
-                                        </a>
+                                        </a> */}
                                         <a href="#">
                                             <h4 class="comments">View all 32 projects</h4>
                                         </a>

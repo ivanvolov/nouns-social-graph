@@ -2,61 +2,37 @@
 import React, { useRef, useState } from "react";
 import Network from "react-vis-network-graph";
 import Grid from "@mui/material/Grid";
-import Button from "@mui/material/Button";
-import nodeData from "./data.json";
 import __data from "./data2.json";
 
 const Graph = () => {
     const graphRef = useRef(null);
-    const [datas, setDatas] = useState("--");
     const _data = __data;
 
     const [data, setData] = useState(_data);
 
     const options = {
         interaction: {
-            selectable: true,
-            hover: true,
+            selectable: false,
+            hover: false,
+            tooltip: false,
+        },
+        nodes: {
+            shape: "dot",
         },
         manipulation: {
-            enabled: true,
-            initiallyActive: true,
+            enabled: false,
+            initiallyActive: false,
             addNode: false,
             addEdge: false,
-            editNode: undefined,
-            editEdge: true,
-            deleteNode: true,
-            deleteEdge: true,
-            shapeProperties: {
-                borderDashes: false,
-                useImageSize: false,
-                useBorderWithImage: false,
-            },
-            controlNodeStyle: {
-                shape: "dot",
-                size: 6,
-                color: {
-                    background: "#ff0000",
-                    border: "#3c3c3c",
-                    highlight: {
-                        background: "#07f968",
-                        border: "#3c3c3c",
-                    },
-                    borderWidth: 2,
-                    borderWidthSelected: 2,
-                },
-            },
-            height: "100%",
-            color: "green",
-            hover: "true",
-            nodes: {
-                size: 20,
-            },
+            editNode: false,
+            editEdge: false,
+            deleteNode: false,
+            deleteEdge: false,
         },
     };
 
     const handleNodeClick = (event) => {
-        setDatas(event.nodes[0]);
+        // setDatas(event.nodes[0]);
     };
 
     return (
