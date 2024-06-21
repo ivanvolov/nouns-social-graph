@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "./Card";
 import data1 from "./data/trending_21_06_24.json";
+import data2 from "./data/trending_19_06_24.json";
 
 const Page = () => {
     return (
@@ -58,7 +59,8 @@ const Page = () => {
             <div class="main">
                 <div class="container">
                     <div class="col-9">
-                        <Card initialData={data1} date="2 days ago" node_cont={5} title={"Zora | Trending"}></Card>
+                        <Card initialData={data1} date="2 days ago" node_cont={15} title={"Zora | Trending"}></Card>
+                        <Card initialData={data2} date="5 days ago" node_cont={14} title={"Zora | Trending"}></Card>
                     </div>
                     <div class="col-3">
                         <div class="card">
