@@ -1,157 +1,136 @@
 {
   "nodes": [
     {
-      "id": "${here is the Name}",
-      "name": "${here is the Name}",
-      "label": "${here is the Name}",
-      "title": "${here is the Name}",
+      "id": "based punks",
+      "title": "based punks",
       "shape": "image",
-      "image": "https://dappradar.com/image-resizer/width=64,quality=100/${here is the image}",
+      "image": "images/based punks_round.png",
       "size": 20,
-      "volume": "${here is the volume}"
+      "volume": "$528.18k"
     },
     {
-      "id": "IBM",
-      "color": "blue",
+      "id": "onchain gaias",
+      "title": "onchain gaias",
       "shape": "image",
-      "label": "2",
-      "title": "IBM",
-      "image": "https://dappradar.com/image-resizer/width=64,quality=100/https://lh3.googleusercontent.com/Q0WeGy-DOK2kSbeuNaqqmB5cs6NwonZMfYsg1tUtxcGhzBFDSJ7JzboWhNqY9W7O2S03N_ov-Vh3hsuVhjXzwsiUIg5vWRBJZA",
+      "image": "images/onchain gaias_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$468.72k"
     },
     {
-      "id": "SQL",
-      "color": "blue",
+      "id": "Metawin Tokenized Cybertruck",
+      "title": "Metawin Tokenized Cybertruck",
       "shape": "image",
-      "title": "SQL",
-      "label": "3",
-      "image": "https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg",
+      "image": "images/Metawin Tokenized Cybertruck_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$120.19k"
     },
     {
-      "id": "S3",
-      "color": "blue",
+      "id": "swatches by jvmi",
+      "title": "swatches by jvmi",
       "shape": "image",
-      "title": "S3",
-      "label": "4",
-      "image": "https://sonraisecurity.com/wp-content/uploads/aws-s3-icon.png",
+      "image": "images/swatches by jvmi_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$90.66k"
     },
     {
-      "id": "Azure",
-      "color": "blue",
+      "id": "Based Ape Gang",
+      "title": "Based Ape Gang",
       "shape": "image",
-      "label": "5",
-      "title": "Azure",
-      "image": "https://www.openbravo.com/blog/wp-content/uploads/2020/03/azure-cloud.jpg",
+      "image": "images/Based Ape Gang_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$75.14k"
     },
     {
-      "id": "MongoDB",
-      "color": "blue",
+      "id": "MagicBooks",
+      "title": "MagicBooks",
       "shape": "image",
-
-      "label": "6",
-      "title": "MongoDB",
-      "image": "https://cyclr.com/wp-content/uploads/2022/03/ext-553.png",
+      "image": "images/MagicBooks_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$70.1k"
     },
     {
-      "id": "ELB",
-      "color": "purple",
+      "id": "Dryads",
+      "title": "Dryads",
       "shape": "image",
-
-      "label": "7",
-      "title": "ELB",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPd9rU5qaOuUmt2qwyBi6u_Xrn4PMV21SXNdHj2Me65OgDCStw4chydnmGa0-s1a7e_w&usqp=CAU",
+      "image": "images/Dryads_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$70.09k"
     },
     {
-      "id": "Saas",
-      "color": "purple",
+      "id": "Common Wealth Genesis NFT Series 1",
+      "title": "Common Wealth Genesis NFT Series 1",
       "shape": "image",
-
-      "label": "8",
-      "title": "Saas",
-      "image": "https://ongoingwarehouse.com/Pictures/MicrosoftTeams-image.png",
+      "image": "images/Common Wealth Genesis NFT Series 1_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$67.22k"
     },
     {
-      "id": "Notion",
-      "color": "purple",
+      "id": "Get Based \"Based Summer\" Poster",
+      "title": "Get Based \"Based Summer\" Poster",
       "shape": "image",
-
-      "label": "9",
-      "title": "Notion",
-      "image": "https://cdn.icon-icons.com/icons2/2429/PNG/512/notion_logo_icon_147257.png",
+      "image": "images/Get Based \"Based Summer\" Poster_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$57.13k"
     },
     {
-      "id": "Appengine",
-      "label": "10",
-      "color": "purple",
-      "title": "Appengine",
+      "id": "Mochimons",
+      "title": "Mochimons",
       "shape": "image",
-      "image": "https://www.howtogeek.com/wp-content/uploads/csit/2020/06/29add7ff.png?height=200p&trim=2,2,2,2",
+      "image": "images/Mochimons_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$56.17k"
     },
     {
-      "id": "Sematext",
-      "label": "11",
-      "color": "purple",
-      "title": "Sematext",
+      "id": "Calamity: Artifacts",
+      "title": "Calamity: Artifacts",
       "shape": "image",
-      "image": "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d6fa77d54b71a3a68842371d85aba442/sematext-cloud.jpg",
+      "image": "images/Calamity: Artifacts_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$53.04k"
     },
     {
-      "id": "Jenkins",
-      "label": "12",
-      "color": "purple",
-      "title": "Jenkins",
+      "id": "Based Fellas",
+      "title": "Based Fellas",
       "shape": "image",
-      "image": "https://www.learntek.org/blog/wp-content/uploads/2018/05/jenkins_image.png",
+      "image": "images/Based Fellas_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$52.45k"
     },
     {
-      "id": "Githup",
-      "label": "13",
-      "color": "purple",
-      "title": "Githup",
+      "id": "VeeCon 2024 Tickets",
+      "title": "VeeCon 2024 Tickets",
       "shape": "image",
-      "image": "https://foundations.projectpythia.org/_images/GitHub-logo.png",
+      "image": "images/VeeCon 2024 Tickets_round.png",
       "size": 20,
-      "cost": "$1000"
+      "volume": "$47.5k"
+    },
+    {
+      "id": "Remy Boys",
+      "title": "Remy Boys",
+      "shape": "image",
+      "image": "images/Remy Boys_round.png",
+      "size": 20,
+      "volume": "$43.65k"
+    },
+    {
+      "id": "Bomefers",
+      "title": "Bomefers",
+      "shape": "image",
+      "image": "images/Bomefers_round.png",
+      "size": 20,
+      "volume": "$39.76k"
     }
   ],
   "edges": [
-    { "from": "AWS", "to": "IBM", "color": "red" },
-    { "from": "AWS", "to": "SQL", "color": "red" },
-    { "from": "IBM", "to": "S3", "color": "red" },
-    { "from": "IBM", "to": "Azure", "color": "red" },
-    { "from": "IBM", "to": "MongoDB", "color": "red" },
-    { "from": "MongoDB", "to": "AWS", "color": "red" },
-    { "from": "Azure", "to": "MongoDB", "color": "red" },
-    { "from": "MongoDB", "to": "ELB", "color": "red" },
-    { "from": "AWS", "to": "ELB", "color": "purple" },
-    { "from": "ELB", "to": "Saas", "color": "purple" },
-    { "from": "Saas", "to": "Notion", "color": "purple" },
-    { "from": "Notion", "to": "Appengine", "color": "purple" },
-    { "from": "Githup", "to": "Jenkins", "color": "purple" },
-    { "from": "Sematext", "to": "Appengine", "color": "purple" },
-    { "from": "Githup", "to": "Sematext", "color": "purple" },
-    { "from": "Sematext", "to": "AWS", "color": "purple" },
-    { "from": "Jenkins", "to": "ELB", "color": "purple" }
+    {
+      "from": "Bomefers",
+      "to": "Remy Boys",
+      "width": 2
+    },
+    {
+      "from": "Remy Boys",
+      "to": "Bomefers",
+      "width": 4
+    }
   ]
 }

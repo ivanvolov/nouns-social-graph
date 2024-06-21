@@ -42,7 +42,7 @@ const Page = () => {
                                     <div class="action">
                                         <div class="profile" onclick="menuToggle()">
                                             <img
-                                                src="https://media.geeksforgeeks.org/wp-content/uploads/20220609093221/g2-200x200.jpg"
+                                                src="https://miro.medium.com/v2/resize:fit:2200/1*-3FGjiLiwxB84Pczdk2Hqg.png"
                                                 alt="user Avatar"
                                             />
                                         </div>

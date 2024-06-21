@@ -1,4 +1,3 @@
-// Container.js
 import React, { useRef, useState } from "react";
 import Network from "react-vis-network-graph";
 import Grid from "@mui/material/Grid";
@@ -6,6 +5,9 @@ import __data from "./data2.json";
 
 const Graph = () => {
     const graphRef = useRef(null);
+    __data.nodes = __data.nodes.map((i) => {
+        return { ...i, label: undefined, name: undefined };
+    });
     const _data = __data;
 
     const [data, setData] = useState(_data);
@@ -18,6 +20,22 @@ const Graph = () => {
         },
         nodes: {
             shape: "dot",
+        },
+        edges: {
+            color: {
+                color: "#90D5FF",
+                highlight: "#90D5FF",
+                hover: "#90D5FF",
+            },
+            width: 1, // default width, will be overridden by individual edge width
+            arrows: {
+                to: { enabled: true, scaleFactor: 1 },
+                from: { enabled: false, scaleFactor: 1 },
+            },
+            smooth: {
+                enabled: true,
+                type: "curvedCCW",
+            },
         },
         manipulation: {
             enabled: false,
@@ -102,14 +120,3 @@ const Graph = () => {
 };
 
 export default Graph;
-
-// variant="contained"
-// onClick={() => {
-//     sessionStorage.setItem("set", "no");
-//     graphRef.current.updateGraph();
-// }}
-
-// onClick={() => {
-//     sessionStorage.setItem("set", "yes");
-//     graphRef.current.updateGraph();
-// }}
