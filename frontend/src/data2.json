@@ -1,14 +1,14 @@
 {
   "nodes": [
     {
-      "id": "AWS",
-      "name": "AWS",
-      "label": "1",
-      "title": "AWS",
+      "id": "${here is the Name}",
+      "name": "${here is the Name}",
+      "label": "${here is the Name}",
+      "title": "${here is the Name}",
       "shape": "image",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qneFgROiufDyIrsXWpq_GhoQWnnxHuoclPljXeXgtlcGEParu75dPQ4TLafJeLJssXc&usqp=CAU",
+      "image": "https://dappradar.com/image-resizer/width=64,quality=100/${here is the image}",
       "size": 20,
-      "cost": "$1000"
+      "volume": "${here is the volume}"
     },
     {
       "id": "IBM",
@@ -16,7 +16,7 @@
       "shape": "image",
       "label": "2",
       "title": "IBM",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/IBM_Cloud_logo.png",
+      "image": "https://dappradar.com/image-resizer/width=64,quality=100/https://lh3.googleusercontent.com/Q0WeGy-DOK2kSbeuNaqqmB5cs6NwonZMfYsg1tUtxcGhzBFDSJ7JzboWhNqY9W7O2S03N_ov-Vh3hsuVhjXzwsiUIg5vWRBJZA",
       "size": 20,
       "cost": "$1000"
     },
