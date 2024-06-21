@@ -1,7 +1,7 @@
-dev:
+mine:
 	node data-mining/src/getNFT.js
-f:
-	export NODE_OPTIONS=--openssl-legacy-provider && cd frontend/ && npm run build
+dev:
+	cd frontend/ && npm run start
 
 
 # nvm use 16
