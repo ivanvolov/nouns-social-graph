@@ -1,0 +1,20 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/out": true,
+    "**/audits": true,
+    "**/broadcast": true,
+    "**/lib": true,
+    "**/.git": true
+  },
+  "files.exclude": {
+    "**/audits": true,
+    "**/out": true,
+    "**/broadcast": true,
+    // "**/.vscode": true,
+    "**/.github": true,
+    "**/lib": true,
+    "**/cache": true
+  },
+  "cSpell.enabled": false
+}
