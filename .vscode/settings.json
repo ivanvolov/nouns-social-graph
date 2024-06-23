@@ -5,7 +5,8 @@
     "**/audits": true,
     "**/broadcast": true,
     "**/lib": true,
-    "**/.git": true
+    "**/.git": true,
+    "**/build": true
   },
   "files.exclude": {
     "**/audits": true,

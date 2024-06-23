@@ -7,7 +7,11 @@
   "dependencies": {
     "@emotion/react": "11.10.6",
     "@emotion/styled": "11.10.6",
+    "@ethersproject/providers": "^5.7.2",
     "@mui/material": "5.11.15",
+    "@walletconnect/client": "^1.8.0",
+    "@web3-react/core": "^8.2.3",
+    "@web3-react/walletconnect-connector": "^6.2.13",
     "force-graph": "1.42.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
@@ -16,9 +20,9 @@
     "react-rnd": "10.2.4",
     "react-scripts": "4.0.1",
     "react-vis-network-graph": "3.0.1",
-    "semver": "7.3.8"
+    "semver": "7.3.8",
+    "web3": "^4.10.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

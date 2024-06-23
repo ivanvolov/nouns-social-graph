@@ -1,11 +1,12 @@
 import React from "react";
 import Card from "./Card";
-import data1 from "./data/trending_21_06_24.json";
-import discoveries1 from "./data/small_20_06_24.json";
-import discoveries2 from "./data/small_18_06_24.json";
-import data2 from "./data/trending_19_06_24.json";
-import topData from "./data/top.json";
-import Minter from "./top/Minter";
+import data1 from "../data/trending_21_06_24.json";
+import discoveries1 from "../data/small_20_06_24.json";
+import discoveries2 from "../data/small_18_06_24.json";
+import data2 from "../data/trending_19_06_24.json";
+import topData from "../data/top.json";
+import Minter from "./child/Minter";
+import ConnectButton from "./ConnectButton";
 
 const Page = () => {
     return (
@@ -41,14 +42,7 @@ const Page = () => {
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <div class="action">
-                                        <div class="profile" onclick="menuToggle()">
-                                            <img
-                                                src="https://miro.medium.com/v2/resize:fit:2200/1*-3FGjiLiwxB84Pczdk2Hqg.png"
-                                                alt="user Avatar"
-                                            />
-                                        </div>
-                                    </div>
+                                    <ConnectButton />
                                 </li>
                             </ul>
                         </div>

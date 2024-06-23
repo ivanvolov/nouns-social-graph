@@ -1,5 +1,5 @@
 import React from "react";
-import Graph from "./Graph";
+import Graph from "./child/Graph";
 
 const Card = ({ initialData, node_cont, date, title }) => {
     return (

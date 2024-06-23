@@ -22,44 +22,11 @@ body {
 }
 
 .navbar .container {
-  /* background-color: #555; */
-  padding: 10px 0;
-  width: 75%;
+  padding: 0px 10px; /* Add horizontal padding */
+  width: 100%; /* Full width */
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* margin: 0 auto; */
-}
-
-.container .logo {
-  display: inline-block;
-  cursor: pointer;
-}
-
-.searchbar {
-  width: -10%;
-  text-align: end;
-}
-
-.searchbar input {
-  background-color: #fafafa;
-  padding: 5px;
-  text-indent: 21px;
-  outline: none;
-  border: 1px solid rgb(218, 217, 217);
-  border-radius: 2px;
-  color: rgb(77, 77, 77);
-}
-
-.searchbar img {
-  position: absolute;
-  margin-left: -10.5rem;
-  margin-top: 0.25rem;
-}
-
-.searchbar input::placeholder {
-  font-weight: lighter;
-  color: rgb(172, 172, 172);
 }
 
 .nav-links {
