@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": "based punks",
+      "image": "images/based punks_round.png"
+    },
+    {
+      "id": "Metawin Tokenized Cybertruck",
+      "image": "images/Metawin Tokenized Cybertruck_round.png"
+    },
+    {
+      "id": "Dryads",
+      "image": "images/Dryads_round.png"
+    },
+    {
+      "id": "Based Fellas",
+      "image": "images/Based Fellas_round.png"
+    },
+    {
+      "id": "VeeCon 2024 Tickets",
+      "image": "images/VeeCon 2024 Tickets_round.png"
+    }
+  ],
+  "minters": [
+    {
+      "id": "artiom",
+      "image": "https://zora.co/api/avatar/0xa582360da4ae1fbb912c975fcce1a0c0e2af91e8?size=100"
+    },
+    {
+      "id": "mumcoll.eth",
+      "image": "https://zora.co/api/avatar/0x7e11a3883e901bdc0eef2b4e135f11e1fe57c1de?size=100"
+    },
+    {
+      "id": "defiginger",
+      "image": "https://zora.co/api/avatar/0xff9b563140952fb7e3e5552f1a5068b637f0de0a?size=100"
+    },
+    {
+      "id": "ShadoWeysel",
+      "image": "https://zora.co/api/avatar/0x136accaa6c08e9331789d0ccbc3eef72e45b7a4e?size=100"
+    },
+    {
+      "id": "dsfeee",
+      "image": "https://zora.co/api/avatar/0x7e11a3883e901bdc0eef2b4e135f11e1fe57c1de?size=100"
+    }
+  ]
+}

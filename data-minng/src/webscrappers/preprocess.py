@@ -10,7 +10,8 @@ file_path = 'src/webscrappers/big_list.csv'
 data = pd.read_csv(file_path)
 
 # Selecting the top 20 entries
-top_20_data = data.head(15)
+top_20_data = data.tail(50)
+# print(len(top_20_data))
 # top_20_data = data
 
 # Constructing the JSON array from the top 20 data
@@ -24,14 +25,15 @@ for index, row in top_20_data.iterrows():
         "size": 20,
         "volume": row["Volume"]
     }
-    json_array.append(json_entry)
+    # json_array.append(json_entry)
+    json_array.append(row["Name"])
 
 # Convert the list to JSON format
 json_output = json.dumps(json_array, indent=2)
 print(json_output)
 
 # Create directory for images if it doesn't exist
-os.makedirs('images', exist_ok=True)
+# os.makedirs('images', exist_ok=True)
 
 # Function to download and save images
 def download_images(json_array):
@@ -66,4 +68,4 @@ def download_images(json_array):
 # Download images
 # download_images(json_array)
 
-print("Images downloaded and saved.")
+# print("Images downloaded and saved.")
