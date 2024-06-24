@@ -6,6 +6,7 @@ const Graph = ({ __data }) => {
     const graphRef = useRef(null);
     __data.nodes = __data.nodes.map((i) => {
         return { ...i, label: undefined, name: undefined };
+        // image: "images/QiDao_round.png"
     });
     const _data = __data;
 

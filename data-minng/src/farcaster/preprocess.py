@@ -17,10 +17,10 @@ json_array = []
 for index, row in top_20_data.iterrows():
     json_entry = {
         "id": row["Name"],
-        "title": row["Name"],
-        "shape": "image",
-        "image": f'images/{row["Name"]}_round.png',
-        "size": 20,
+        # "title": row["Name"],
+        # "shape": "image",
+        # "image": f'images/{row["Name"]}_round.png',
+        # "size": 20,
         "volume": row["Volume"]
     }
     # json_array.append(json_entry)

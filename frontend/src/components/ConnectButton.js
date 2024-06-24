@@ -9,6 +9,7 @@ const WalletConnectButton = () => {
                 border: "2px solid orange",
                 borderRadius: "8px",
                 padding: "10px 20px",
+                margin: "10px",
                 fontSize: "16px",
                 fontWeight: "bold",
                 cursor: "pointer",
