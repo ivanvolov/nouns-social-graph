@@ -1,498 +1,647 @@
 {
   "nodes": [
     {
-      "id": "Calamity: Artifacts",
-      "title": "Calamity: Artifacts",
+      "id": "base",
+      "title": "base",
       "shape": "image",
-      "image": "images/Calamity: Artifacts_round.png",
+      "image": "images/base_round.png",
       "size": 20,
-      "volume": "$53.04k"
+      "volume": 10000.0
     },
     {
-      "id": "Based Fellas",
-      "title": "Based Fellas",
+      "id": "frenpetonbase",
+      "title": "frenpetonbase",
       "shape": "image",
-      "image": "images/Based Fellas_round.png",
+      "image": "images/frenpetonbase_round.png",
       "size": 20,
-      "volume": "$52.45k"
+      "volume": 10000.0
     },
     {
-      "id": "VeeCon 2024 Tickets",
-      "title": "VeeCon 2024 Tickets",
+      "id": "builderfi",
+      "title": "builderfi",
       "shape": "image",
-      "image": "images/VeeCon 2024 Tickets_round.png",
+      "image": "images/builderfi_round.png",
       "size": 20,
-      "volume": "$47.5k"
+      "volume": 10000.0
     },
     {
-      "id": "Remy Boys",
-      "title": "Remy Boys",
+      "id": "TalentProtocol",
+      "title": "TalentProtocol",
       "shape": "image",
-      "image": "images/Remy Boys_round.png",
+      "image": "images/TalentProtocol_round.png",
       "size": 20,
-      "volume": "$43.65k"
+      "volume": 10000.0
     },
     {
-      "id": "Bomefers",
-      "title": "Bomefers",
+      "id": "AerodromeFi",
+      "title": "AerodromeFi",
       "shape": "image",
-      "image": "images/Bomefers_round.png",
+      "image": "images/AerodromeFi_round.png",
       "size": 20,
-      "volume": "$39.76k"
+      "volume": 10000.0
     },
     {
-      "id": "Neo Squiggles",
-      "title": "Neo Squiggles",
+      "id": "backedfi",
+      "title": "backedfi",
       "shape": "image",
-      "image": "images/Neo Squiggles_round.png",
+      "image": "images/backedfi_round.png",
       "size": 20,
-      "volume": "$38.41k"
+      "volume": 10000.0
     },
     {
-      "id": "The Album",
-      "title": "The Album",
+      "id": "echelonfnd",
+      "title": "echelonfnd",
       "shape": "image",
-      "image": "images/The Album_round.png",
+      "image": "images/echelonfnd_round.png",
       "size": 20,
-      "volume": "$35.91k"
+      "volume": 10000.0
     },
     {
-      "id": "Primitives",
-      "title": "Primitives",
+      "id": "degentokenbase",
+      "title": "degentokenbase",
       "shape": "image",
-      "image": "images/Primitives_round.png",
+      "image": "images/degentokenbase_round.png",
       "size": 20,
-      "volume": "$33.47k"
+      "volume": 10000.0
     },
     {
-      "id": "Normilady",
-      "title": "Normilady",
+      "id": "cartesiproject",
+      "title": "cartesiproject",
       "shape": "image",
-      "image": "images/Normilady_round.png",
+      "image": "images/cartesiproject_round.png",
       "size": 20,
-      "volume": "$31.84k"
+      "volume": 10000.0
     },
     {
-      "id": "Bored Ape Base Club",
-      "title": "Bored Ape Base Club",
+      "id": "Tea",
+      "title": "Tea",
       "shape": "image",
-      "image": "images/Bored Ape Base Club_round.png",
+      "image": "images/Tea_round.png",
       "size": 20,
-      "volume": "$29.1k"
+      "volume": 162.0
     },
     {
-      "id": "Normilio",
-      "title": "Normilio",
+      "id": "ibc.fun",
+      "title": "ibc.fun",
       "shape": "image",
-      "image": "images/Normilio_round.png",
+      "image": "images/ibc.fun_round.png",
       "size": 20,
-      "volume": "$24.17k"
+      "volume": 115.0
     },
     {
-      "id": "fruggerz",
-      "title": "fruggerz",
+      "id": "OpenCover",
+      "title": "OpenCover",
       "shape": "image",
-      "image": "images/fruggerz_round.png",
+      "image": "images/OpenCover_round.png",
       "size": 20,
-      "volume": "$23.96k"
+      "volume": 115.0
     },
     {
-      "id": "Priceless Fund 'Slice'",
-      "title": "Priceless Fund 'Slice'",
+      "id": "TIME Token Finance",
+      "title": "TIME Token Finance",
       "shape": "image",
-      "image": "images/Priceless Fund 'Slice'_round.png",
+      "image": "images/TIME Token Finance_round.png",
       "size": 20,
-      "volume": "$22.56k"
+      "volume": 132.0
     },
     {
-      "id": "Genesis Master Pass",
-      "title": "Genesis Master Pass",
+      "id": "Seamless",
+      "title": "Seamless",
       "shape": "image",
-      "image": "images/Genesis Master Pass_round.png",
+      "image": "images/Seamless_round.png",
       "size": 20,
-      "volume": "$22.54k"
+      "volume": 246.0
     },
     {
-      "id": "Degens by doy",
-      "title": "Degens by doy",
+      "id": "Amet Finance",
+      "title": "Amet Finance",
       "shape": "image",
-      "image": "images/Degens by doy_round.png",
+      "image": "images/Amet Finance_round.png",
       "size": 20,
-      "volume": "$22.06k"
+      "volume": 154.0
     },
     {
-      "id": "Pokpok Genesis Flock",
-      "title": "Pokpok Genesis Flock",
+      "id": "Astaria",
+      "title": "Astaria",
       "shape": "image",
-      "image": "images/Pokpok Genesis Flock_round.png",
+      "image": "images/Astaria_round.png",
       "size": 20,
-      "volume": "$20.67k"
+      "volume": 185.0
     },
     {
-      "id": "Base OnChain Punks",
-      "title": "Base OnChain Punks",
+      "id": "LayerZero",
+      "title": "LayerZero",
       "shape": "image",
-      "image": "images/Base OnChain Punks_round.png",
+      "image": "images/LayerZero_round.png",
       "size": 20,
-      "volume": "$20.29k"
+      "volume": 585.0
     },
     {
-      "id": "SmallBrosNFT",
-      "title": "SmallBrosNFT",
+      "id": "InterSwap",
+      "title": "InterSwap",
       "shape": "image",
-      "image": "images/SmallBrosNFT_round.png",
+      "image": "images/InterSwap_round.png",
       "size": 20,
-      "volume": "$20.1k"
+      "volume": 145.0
     },
     {
-      "id": "PunkApepen",
-      "title": "PunkApepen",
+      "id": "Payflow",
+      "title": "Payflow",
       "shape": "image",
-      "image": "images/PunkApepen_round.png",
+      "image": "images/Payflow_round.png",
       "size": 20,
-      "volume": "$20.05k"
+      "volume": 154.0
     },
     {
-      "id": "Onchain Pills",
-      "title": "Onchain Pills",
+      "id": "DAOSquare",
+      "title": "DAOSquare",
       "shape": "image",
-      "image": "images/Onchain Pills_round.png",
+      "image": "images/DAOSquare_round.png",
       "size": 20,
-      "volume": "$19.68k"
+      "volume": 111.0
     },
     {
-      "id": "FARWORLD",
-      "title": "FARWORLD",
+      "id": "FortyTwo",
+      "title": "FortyTwo",
       "shape": "image",
-      "image": "images/FARWORLD_round.png",
+      "image": "images/FortyTwo_round.png",
       "size": 20,
-      "volume": "$18.93k"
+      "volume": 114.0
     },
     {
-      "id": "Degen Haberdashers",
-      "title": "Degen Haberdashers",
+      "id": "UCF Finance",
+      "title": "UCF Finance",
       "shape": "image",
-      "image": "images/Degen Haberdashers_round.png",
+      "image": "images/UCF Finance_round.png",
       "size": 20,
-      "volume": "$17.72k"
+      "volume": 75.0
     },
     {
-      "id": "ZIELCHAIN",
-      "title": "ZIELCHAIN",
+      "id": "Plena - Crypto Super App",
+      "title": "Plena - Crypto Super App",
       "shape": "image",
-      "image": "images/ZIELCHAIN_round.png",
+      "image": "images/Plena - Crypto Super App_round.png",
       "size": 20,
-      "volume": "$17.45k"
+      "volume": 173.0
     },
     {
-      "id": "Degentlemen",
-      "title": "Degentlemen",
+      "id": "Sparkfi",
+      "title": "Sparkfi",
       "shape": "image",
-      "image": "images/Degentlemen_round.png",
+      "image": "images/Sparkfi_round.png",
       "size": 20,
-      "volume": "$17.27k"
+      "volume": 99.0
     },
     {
-      "id": "Oviators",
-      "title": "Oviators",
+      "id": "Rubic",
+      "title": "Rubic",
       "shape": "image",
-      "image": "images/Oviators_round.png",
+      "image": "images/Rubic_round.png",
       "size": 20,
-      "volume": "$17.06k"
+      "volume": 155.0
     },
     {
-      "id": "higher swatches",
-      "title": "higher swatches",
+      "id": "Kook",
+      "title": "Kook",
       "shape": "image",
-      "image": "images/higher swatches_round.png",
+      "image": "images/Kook_round.png",
       "size": 20,
-      "volume": "$17.03k"
+      "volume": 89.0
     },
     {
-      "id": "The Based LP",
-      "title": "The Based LP",
+      "id": "ZeroDev",
+      "title": "ZeroDev",
       "shape": "image",
-      "image": "images/The Based LP_round.png",
+      "image": "images/ZeroDev_round.png",
       "size": 20,
-      "volume": "$16.59k"
+      "volume": 146.0
     },
     {
-      "id": "MYSTCL",
-      "title": "MYSTCL",
+      "id": "Onthis",
+      "title": "Onthis",
       "shape": "image",
-      "image": "images/MYSTCL_round.png",
+      "image": "images/Onthis_round.png",
       "size": 20,
-      "volume": "$15.58k"
+      "volume": 174.0
     },
     {
-      "id": "Based Apes",
-      "title": "Based Apes",
+      "id": "Flooz",
+      "title": "Flooz",
       "shape": "image",
-      "image": "images/Based Apes_round.png",
+      "image": "images/Flooz_round.png",
       "size": 20,
-      "volume": "$15.34k"
+      "volume": 189.0
     },
     {
-      "id": "Chompions",
-      "title": "Chompions",
+      "id": "Notum",
+      "title": "Notum",
       "shape": "image",
-      "image": "images/Chompions_round.png",
+      "image": "images/Notum_round.png",
       "size": 20,
-      "volume": "$14.72k"
+      "volume": 279.0
     },
     {
-      "id": "veNFT",
-      "title": "veNFT",
+      "id": "Loopcrypto",
+      "title": "Loopcrypto",
       "shape": "image",
-      "image": "images/veNFT_round.png",
+      "image": "images/Loopcrypto_round.png",
       "size": 20,
-      "volume": "$14.04k"
+      "volume": 81.0
     },
     {
-      "id": "SuperFrens",
-      "title": "SuperFrens",
+      "id": "PoolTogether",
+      "title": "PoolTogether",
       "shape": "image",
-      "image": "images/SuperFrens_round.png",
+      "image": "images/PoolTogether_round.png",
       "size": 20,
-      "volume": "$13.41k"
+      "volume": 74.0
     },
     {
-      "id": "Lingo Degens Club",
-      "title": "Lingo Degens Club",
+      "id": "Mozaic Finance",
+      "title": "Mozaic Finance",
       "shape": "image",
-      "image": "images/Lingo Degens Club_round.png",
+      "image": "images/Mozaic Finance_round.png",
       "size": 20,
-      "volume": "$925.57"
+      "volume": 141.0
     },
     {
-      "id": "SoulMinter",
-      "title": "SoulMinter",
+      "id": "Bebop",
+      "title": "Bebop",
       "shape": "image",
-      "image": "images/SoulMinter_round.png",
+      "image": "images/Bebop_round.png",
       "size": 20,
-      "volume": "$920.73"
+      "volume": 242.0
     },
     {
-      "id": "Build This Summer",
-      "title": "Build This Summer",
+      "id": "Swoop Exchange",
+      "title": "Swoop Exchange",
       "shape": "image",
-      "image": "images/Build This Summer_round.png",
+      "image": "images/Swoop Exchange_round.png",
       "size": 20,
-      "volume": "$895.41"
+      "volume": 122.0
     },
     {
-      "id": "Based BEANZ Official",
-      "title": "Based BEANZ Official",
+      "id": "BAS3D",
+      "title": "BAS3D",
       "shape": "image",
-      "image": "images/Based BEANZ Official_round.png",
+      "image": "images/BAS3D_round.png",
       "size": 20,
-      "volume": "$892.02"
+      "volume": 95.0
     },
     {
-      "id": "Optimists",
-      "title": "Optimists",
+      "id": "Satellite",
+      "title": "Satellite",
       "shape": "image",
-      "image": "images/Optimists_round.png",
+      "image": "images/Satellite_round.png",
       "size": 20,
-      "volume": "$872.99"
+      "volume": 88.0
     },
     {
-      "id": "Base Brigade",
-      "title": "Base Brigade",
+      "id": "Pancake Swap",
+      "title": "Pancake Swap",
       "shape": "image",
-      "image": "images/Base Brigade_round.png",
+      "image": "images/Pancake Swap_round.png",
       "size": 20,
-      "volume": "$861.36"
+      "volume": 161.0
     },
     {
-      "id": "Aux Arbres",
-      "title": "Aux Arbres",
+      "id": "PWNDAO",
+      "title": "PWNDAO",
       "shape": "image",
-      "image": "images/Aux Arbres_round.png",
+      "image": "images/PWNDAO_round.png",
       "size": 20,
-      "volume": "$849.53"
+      "volume": 92.0
     },
     {
-      "id": "Caster Cats",
-      "title": "Caster Cats",
+      "id": "ODOS protocol",
+      "title": "ODOS protocol",
       "shape": "image",
-      "image": "images/Caster Cats_round.png",
+      "image": "images/ODOS protocol_round.png",
       "size": 20,
-      "volume": "$831.12"
+      "volume": 110.0
     },
     {
-      "id": "SPENGE GANG",
-      "title": "SPENGE GANG",
+      "id": "Mellow Protocol",
+      "title": "Mellow Protocol",
       "shape": "image",
-      "image": "images/SPENGE GANG_round.png",
+      "image": "images/Mellow Protocol_round.png",
       "size": 20,
-      "volume": "$813.65"
+      "volume": 99.0
     },
     {
-      "id": "BaseFrens",
-      "title": "BaseFrens",
+      "id": "Moonwell",
+      "title": "Moonwell",
       "shape": "image",
-      "image": "images/BaseFrens_round.png",
+      "image": "images/Moonwell_round.png",
       "size": 20,
-      "volume": "$780.5"
+      "volume": 152.0
     },
     {
-      "id": "Ramin Nasibov",
-      "title": "Ramin Nasibov",
+      "id": "Beam",
+      "title": "Beam",
       "shape": "image",
-      "image": "images/Ramin Nasibov_round.png",
+      "image": "images/Beam_round.png",
       "size": 20,
-      "volume": "$770.67"
+      "volume": 165.0
     },
     {
-      "id": "SummoningSpirits",
-      "title": "SummoningSpirits",
+      "id": "Symbiosis",
+      "title": "Symbiosis",
       "shape": "image",
-      "image": "images/SummoningSpirits_round.png",
+      "image": "images/Symbiosis_round.png",
       "size": 20,
-      "volume": "$764.37"
+      "volume": 105.0
     },
     {
-      "id": "Prohibition Daily Subscription",
-      "title": "Prohibition Daily Subscription",
+      "id": "Peanut Protocol",
+      "title": "Peanut Protocol",
       "shape": "image",
-      "image": "images/Prohibition Daily Subscription_round.png",
+      "image": "images/Peanut Protocol_round.png",
       "size": 20,
-      "volume": "$762.08"
+      "volume": 72.0
     },
     {
-      "id": "we are so early, and you\u2019ve already made it this far",
-      "title": "we are so early, and you\u2019ve already made it this far",
+      "id": "CoinBrain",
+      "title": "CoinBrain",
       "shape": "image",
-      "image": "images/we are so early, and you\u2019ve already made it this far_round.png",
+      "image": "images/CoinBrain_round.png",
       "size": 20,
-      "volume": "$762.05"
+      "volume": 76.0
     },
     {
-      "id": "Da Squish",
-      "title": "Da Squish",
+      "id": "Jumper Exchange",
+      "title": "Jumper Exchange",
       "shape": "image",
-      "image": "images/Da Squish_round.png",
+      "image": "images/Jumper Exchange_round.png",
       "size": 20,
-      "volume": "$760.17"
+      "volume": 730.0
     },
     {
-      "id": "Based Street Chad NFT Collection",
-      "title": "Based Street Chad NFT Collection",
+      "id": "Mes Protocol",
+      "title": "Mes Protocol",
       "shape": "image",
-      "image": "images/Based Street Chad NFT Collection_round.png",
+      "image": "images/Mes Protocol_round.png",
       "size": 20,
-      "volume": "$736.06"
+      "volume": 1727.0
     },
     {
-      "id": "The Swarm",
-      "title": "The Swarm",
+      "id": "Portals.fi",
+      "title": "Portals.fi",
       "shape": "image",
-      "image": "images/The Swarm_round.png",
+      "image": "images/Portals.fi_round.png",
       "size": 20,
-      "volume": "$712.95"
+      "volume": 75.0
     },
     {
-      "id": "Based Up Dogs",
-      "title": "Based Up Dogs",
+      "id": "Squid",
+      "title": "Squid",
       "shape": "image",
-      "image": "images/Based Up Dogs_round.png",
+      "image": "images/Squid_round.png",
       "size": 20,
-      "volume": "$707.54"
+      "volume": 54.0
+    },
+    {
+      "id": "Safe",
+      "title": "Safe",
+      "shape": "image",
+      "image": "images/Safe_round.png",
+      "size": 20,
+      "volume": 51.0
+    },
+    {
+      "id": "Orbiter Finance",
+      "title": "Orbiter Finance",
+      "shape": "image",
+      "image": "images/Orbiter Finance_round.png",
+      "size": 20,
+      "volume": 73.0
+    },
+    {
+      "id": "aave",
+      "title": "aave",
+      "shape": "image",
+      "image": "images/aave_round.png",
+      "size": 20,
+      "volume": 39.0
+    },
+    {
+      "id": "Compound",
+      "title": "Compound",
+      "shape": "image",
+      "image": "images/Compound_round.png",
+      "size": 20,
+      "volume": 29.0
+    },
+    {
+      "id": "Volmex Finance",
+      "title": "Volmex Finance",
+      "shape": "image",
+      "image": "images/Volmex Finance_round.png",
+      "size": 20,
+      "volume": 21.0
+    },
+    {
+      "id": "TimeSwap",
+      "title": "TimeSwap",
+      "shape": "image",
+      "image": "images/TimeSwap_round.png",
+      "size": 20,
+      "volume": 31.0
+    },
+    {
+      "id": "Gauntlet Network",
+      "title": "Gauntlet Network",
+      "shape": "image",
+      "image": "images/Gauntlet Network_round.png",
+      "size": 20,
+      "volume": 23.0
+    },
+    {
+      "id": "Matcha",
+      "title": "Matcha",
+      "shape": "image",
+      "image": "images/Matcha_round.png",
+      "size": 20,
+      "volume": 48.0
+    },
+    {
+      "id": "Zapper",
+      "title": "Zapper",
+      "shape": "image",
+      "image": "images/Zapper_round.png",
+      "size": 20,
+      "volume": 52.0
+    },
+    {
+      "id": "stargate",
+      "title": "stargate",
+      "shape": "image",
+      "image": "images/stargate_round.png",
+      "size": 20,
+      "volume": 40.0
+    },
+    {
+      "id": "curve",
+      "title": "curve",
+      "shape": "image",
+      "image": "images/curve_round.png",
+      "size": 20,
+      "volume": 39.0
+    },
+    {
+      "id": "Via Protocol",
+      "title": "Via Protocol",
+      "shape": "image",
+      "image": "images/Via Protocol_round.png",
+      "size": 20,
+      "volume": 20.0
+    },
+    {
+      "id": "0x",
+      "title": "0x",
+      "shape": "image",
+      "image": "images/0x_round.png",
+      "size": 20,
+      "volume": 27.0
+    },
+    {
+      "id": "Pods",
+      "title": "Pods",
+      "shape": "image",
+      "image": "images/Pods_round.png",
+      "size": 20,
+      "volume": 16.0
+    },
+    {
+      "id": "Zerion",
+      "title": "Zerion",
+      "shape": "image",
+      "image": "images/Zerion_round.png",
+      "size": 20,
+      "volume": 64.0
+    },
+    {
+      "id": "Uniswap",
+      "title": "Uniswap",
+      "shape": "image",
+      "image": "images/Uniswap_round.png",
+      "size": 20,
+      "volume": 54.0
+    },
+    {
+      "id": "Balancer",
+      "title": "Balancer",
+      "shape": "image",
+      "image": "images/Balancer_round.png",
+      "size": 20,
+      "volume": 25.0
+    },
+    {
+      "id": "Beefy Finance",
+      "title": "Beefy Finance",
+      "shape": "image",
+      "image": "images/Beefy Finance_round.png",
+      "size": 20,
+      "volume": 22.0
+    },
+    {
+      "id": "Izumi Finance",
+      "title": "Izumi Finance",
+      "shape": "image",
+      "image": "images/Izumi Finance_round.png",
+      "size": 20,
+      "volume": 33.0
+    },
+    {
+      "id": "QiDao",
+      "title": "QiDao",
+      "shape": "image",
+      "image": "images/QiDao_round.png",
+      "size": 20,
+      "volume": 22.0
+    },
+    {
+      "id": "Synapse Bridge",
+      "title": "Synapse Bridge",
+      "shape": "image",
+      "image": "images/Synapse Bridge_round.png",
+      "size": 20,
+      "volume": 26.0
+    },
+    {
+      "id": "Harvest",
+      "title": "Harvest",
+      "shape": "image",
+      "image": "images/Harvest_round.png",
+      "size": 20,
+      "volume": 14.0
+    },
+    {
+      "id": "Sablier",
+      "title": "Sablier",
+      "shape": "image",
+      "image": "images/Sablier_round.png",
+      "size": 20,
+      "volume": 15.0
+    },
+    {
+      "id": "OpenOcean",
+      "title": "OpenOcean",
+      "shape": "image",
+      "image": "images/OpenOcean_round.png",
+      "size": 20,
+      "volume": 31.0
+    },
+    {
+      "id": "deBridge",
+      "title": "deBridge",
+      "shape": "image",
+      "image": "images/deBridge_round.png",
+      "size": 20,
+      "volume": 18.0
+    },
+    {
+      "id": "Kyber Network",
+      "title": "Kyber Network",
+      "shape": "image",
+      "image": "images/Kyber Network_round.png",
+      "size": 20,
+      "volume": 24.0
+    },
+    {
+      "id": "Slingshot",
+      "title": "Slingshot",
+      "shape": "image",
+      "image": "images/Slingshot_round.png",
+      "size": 20,
+      "volume": 20.0
+    },
+    {
+      "id": "DODO",
+      "title": "DODO",
+      "shape": "image",
+      "image": "images/DODO_round.png",
+      "size": 20,
+      "volume": 27.0
+    },
+    {
+      "id": "sushiswap",
+      "title": "sushiswap",
+      "shape": "image",
+      "image": "images/sushiswap_round.png",
+      "size": 20,
+      "volume": 33.0
+    },
+    {
+      "id": "Mean Finance",
+      "title": "Mean Finance",
+      "shape": "image",
+      "image": "images/Mean Finance_round.png",
+      "size": 20,
+      "volume": 19.0
     }
   ],
   "edges": [
-    { "from": "Calamity: Artifacts", "to": "Based Fellas", "width": 4.0 },
-    {
-      "from": "Calamity: Artifacts",
-      "to": "VeeCon 2024 Tickets",
-      "width": 3.8
-    },
-    { "from": "Remy Boys", "to": "Bomefers", "width": 4.0 },
-    { "from": "Remy Boys", "to": "fruggerz", "width": 3.9 },
-    { "from": "Neo Squiggles", "to": "The Album", "width": 4.1 },
-    { "from": "Neo Squiggles", "to": "Normilady", "width": 3.7 },
-    { "from": "Primitives", "to": "Normilio", "width": 4.0 },
-    { "from": "Primitives", "to": "Bored Ape Base Club", "width": 3.9 },
-
-    { "from": "Based Fellas", "to": "Priceless Fund 'Slice'", "width": 3.0 },
-    { "from": "Based Fellas", "to": "Genesis Master Pass", "width": 3.1 },
-    { "from": "VeeCon 2024 Tickets", "to": "Degens by doy", "width": 3.2 },
-    {
-      "from": "VeeCon 2024 Tickets",
-      "to": "Pokpok Genesis Flock",
-      "width": 3.0
-    },
-
-    { "from": "Bomefers", "to": "Base OnChain Punks", "width": 2.9 },
-    { "from": "Bomefers", "to": "SmallBrosNFT", "width": 3.2 },
-    { "from": "fruggerz", "to": "PunkApepen", "width": 3.1 },
-    { "from": "fruggerz", "to": "Onchain Pills", "width": 3.0 },
-
-    { "from": "The Album", "to": "FARWORLD", "width": 3.2 },
-    { "from": "The Album", "to": "Degen Haberdashers", "width": 3.0 },
-    { "from": "Normilady", "to": "ZIELCHAIN", "width": 2.8 },
-    { "from": "Normilady", "to": "Degentlemen", "width": 3.2 },
-
-    { "from": "Normilio", "to": "Oviators", "width": 3.1 },
-    { "from": "Normilio", "to": "higher swatches", "width": 3.0 },
-    { "from": "Bored Ape Base Club", "to": "The Based LP", "width": 3.3 },
-    { "from": "Bored Ape Base Club", "to": "MYSTCL", "width": 3.0 },
-
-    { "from": "Priceless Fund 'Slice'", "to": "SuperFrens", "width": 2.1 },
-    {
-      "from": "Priceless Fund 'Slice'",
-      "to": "Lingo Degens Club",
-      "width": 2.3
-    },
-    { "from": "Genesis Master Pass", "to": "SoulMinter", "width": 2.5 },
-    { "from": "Genesis Master Pass", "to": "Build This Summer", "width": 2.4 },
-
-    { "from": "Degens by doy", "to": "Based BEANZ Official", "width": 2.8 },
-    { "from": "Degens by doy", "to": "Optimists", "width": 2.1 },
-    { "from": "Pokpok Genesis Flock", "to": "Base Brigade", "width": 2.6 },
-    { "from": "Pokpok Genesis Flock", "to": "Aux Arbres", "width": 2.2 },
-
-    { "from": "Base OnChain Punks", "to": "Caster Cats", "width": 2.3 },
-    { "from": "Base OnChain Punks", "to": "SPENGE GANG", "width": 2.0 },
-    { "from": "SmallBrosNFT", "to": "BaseFrens", "width": 2.7 },
-    { "from": "SmallBrosNFT", "to": "Ramin Nasibov", "width": 2.2 },
-
-    { "from": "PunkApepen", "to": "SummoningSpirits", "width": 2.4 },
-    {
-      "from": "PunkApepen",
-      "to": "Prohibition Daily Subscription",
-      "width": 2.3
-    },
-    {
-      "from": "Onchain Pills",
-      "to": "we are so early, and you’ve already made it this far",
-      "width": 2.1
-    },
-    { "from": "Onchain Pills", "to": "Da Squish", "width": 2.5 },
-
-    {
-      "from": "FARWORLD",
-      "to": "Based Street Chad NFT Collection",
-      "width": 2.2
-    },
-    { "from": "FARWORLD", "to": "The Swarm", "width": 2.3 },
-    { "from": "Degen Haberdashers", "to": "Based Up Dogs", "width": 2.4 },
-    { "from": "Degen Haberdashers", "to": "Remy Boys", "width": 2.3 },
-
-    { "from": "ZIELCHAIN", "to": "Neo Squiggles", "width": 2.1 },
-    { "from": "ZIELCHAIN", "to": "Based Fellas", "width": 2.4 },
-    { "from": "Degentlemen", "to": "The Album", "width": 2.2 },
-    { "from": "Degentlemen", "to": "Calamity: Artifacts", "width": 2.3 },
-
-    { "from": "Oviators", "to": "VeeCon 2024 Tickets", "width": 2.0 },
-    { "from": "Oviators", "to": "Bomefers", "width": 2.1 },
-    { "from": "higher swatches", "to": "fruggerz", "width": 2.5 },
-    { "from": "higher swatches", "to": "PunkApepen", "width": 2.3 },
-
-    { "from": "The Based LP", "to": "Onchain Pills", "width": 2.0 },
-    { "from": "The Based LP", "to": "FARWORLD", "width": 2.1 },
-    { "from": "MYSTCL", "to": "Degen Haberdashers", "width": 2.0 },
-    { "from": "MYSTCL", "to": "ZIELCHAIN", "width": 2.2 }
+    { "from": "Calamity: Artifacts", "to": "Based Fellas", "width": 4.0 }
   ]
 }

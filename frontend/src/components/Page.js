@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./Card";
-import community from "../data/trending_21_06_24.json";
+import community from "../data/community.json";
 import ConnectButton from "./ConnectButton";
 
 const Page = () => {
@@ -53,10 +53,9 @@ const Page = () => {
                             date="2 days ago"
                             node_cont={community.nodes.length}
                             title={"Base | Communitys"}
-                        >
+                        />
                     </div>
-                    <div class="col-3">
-                    </div>
+                    <div class="col-3"></div>
                 </div>
             </div>
         </div>
