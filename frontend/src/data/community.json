@@ -1,755 +1,175 @@
 {
   "nodes": [
-    {
-      "id": "base",
-      "title": "base",
-      "shape": "image",
-      "image": "images/base_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "frenpetonbase",
-      "title": "frenpetonbase",
-      "shape": "image",
-      "image": "images/frenpetonbase_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "builderfi",
-      "title": "builderfi",
-      "shape": "image",
-      "image": "images/builderfi_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "TalentProtocol",
-      "title": "TalentProtocol",
-      "shape": "image",
-      "image": "images/TalentProtocol_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "AerodromeFi",
-      "title": "AerodromeFi",
-      "shape": "image",
-      "image": "images/AerodromeFi_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "backedfi",
-      "title": "backedfi",
-      "shape": "image",
-      "image": "images/backedfi_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "echelonfnd",
-      "title": "echelonfnd",
-      "shape": "image",
-      "image": "images/echelonfnd_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "degentokenbase",
-      "title": "degentokenbase",
-      "shape": "image",
-      "image": "images/degentokenbase_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "cartesiproject",
-      "title": "cartesiproject",
-      "shape": "image",
-      "image": "images/cartesiproject_round.png",
-      "size": 20,
-      "volume": 10000.0
-    },
-    {
-      "id": "Tea",
-      "title": "Tea",
-      "shape": "image",
-      "image": "images/Tea_round.png",
-      "size": 20,
-      "volume": 162.0
-    },
-    {
-      "id": "ibc.fun",
-      "title": "ibc.fun",
-      "shape": "image",
-      "image": "images/ibc.fun_round.png",
-      "size": 20,
-      "volume": 115.0
-    },
-    {
-      "id": "OpenCover",
-      "title": "OpenCover",
-      "shape": "image",
-      "image": "images/OpenCover_round.png",
-      "size": 20,
-      "volume": 115.0
-    },
-    {
-      "id": "TIME Token Finance",
-      "title": "TIME Token Finance",
-      "shape": "image",
-      "image": "images/TIME Token Finance_round.png",
-      "size": 20,
-      "volume": 132.0
-    },
-    {
-      "id": "Seamless",
-      "title": "Seamless",
-      "shape": "image",
-      "image": "images/Seamless_round.png",
-      "size": 20,
-      "volume": 246.0
-    },
-    {
-      "id": "Amet Finance",
-      "title": "Amet Finance",
-      "shape": "image",
-      "image": "images/Amet Finance_round.png",
-      "size": 20,
-      "volume": 154.0
-    },
-    {
-      "id": "Astaria",
-      "title": "Astaria",
-      "shape": "image",
-      "image": "images/Astaria_round.png",
-      "size": 20,
-      "volume": 185.0
-    },
-    {
-      "id": "LayerZero",
-      "title": "LayerZero",
-      "shape": "image",
-      "image": "images/LayerZero_round.png",
-      "size": 20,
-      "volume": 585.0
-    },
-    {
-      "id": "InterSwap",
-      "title": "InterSwap",
-      "shape": "image",
-      "image": "images/InterSwap_round.png",
-      "size": 20,
-      "volume": 145.0
-    },
-    {
-      "id": "Payflow",
-      "title": "Payflow",
-      "shape": "image",
-      "image": "images/Payflow_round.png",
-      "size": 20,
-      "volume": 154.0
-    },
-    {
-      "id": "DAOSquare",
-      "title": "DAOSquare",
-      "shape": "image",
-      "image": "images/DAOSquare_round.png",
-      "size": 20,
-      "volume": 111.0
-    },
-    {
-      "id": "FortyTwo",
-      "title": "FortyTwo",
-      "shape": "image",
-      "image": "images/FortyTwo_round.png",
-      "size": 20,
-      "volume": 114.0
-    },
-    {
-      "id": "UCF Finance",
-      "title": "UCF Finance",
-      "shape": "image",
-      "image": "images/UCF Finance_round.png",
-      "size": 20,
-      "volume": 75.0
-    },
-    {
-      "id": "Plena - Crypto Super App",
-      "title": "Plena - Crypto Super App",
-      "shape": "image",
-      "image": "images/Plena - Crypto Super App_round.png",
-      "size": 20,
-      "volume": 173.0
-    },
-    {
-      "id": "Sparkfi",
-      "title": "Sparkfi",
-      "shape": "image",
-      "image": "images/Sparkfi_round.png",
-      "size": 20,
-      "volume": 99.0
-    },
-    {
-      "id": "Rubic",
-      "title": "Rubic",
-      "shape": "image",
-      "image": "images/Rubic_round.png",
-      "size": 20,
-      "volume": 155.0
-    },
-    {
-      "id": "Kook",
-      "title": "Kook",
-      "shape": "image",
-      "image": "images/Kook_round.png",
-      "size": 20,
-      "volume": 89.0
-    },
-    {
-      "id": "ZeroDev",
-      "title": "ZeroDev",
-      "shape": "image",
-      "image": "images/ZeroDev_round.png",
-      "size": 20,
-      "volume": 146.0
-    },
-    {
-      "id": "Onthis",
-      "title": "Onthis",
-      "shape": "image",
-      "image": "images/Onthis_round.png",
-      "size": 20,
-      "volume": 174.0
-    },
-    {
-      "id": "Flooz",
-      "title": "Flooz",
-      "shape": "image",
-      "image": "images/Flooz_round.png",
-      "size": 20,
-      "volume": 189.0
-    },
-    {
-      "id": "Notum",
-      "title": "Notum",
-      "shape": "image",
-      "image": "images/Notum_round.png",
-      "size": 20,
-      "volume": 279.0
-    },
-    {
-      "id": "Loopcrypto",
-      "title": "Loopcrypto",
-      "shape": "image",
-      "image": "images/Loopcrypto_round.png",
-      "size": 20,
-      "volume": 81.0
-    },
-    {
-      "id": "PoolTogether",
-      "title": "PoolTogether",
-      "shape": "image",
-      "image": "images/PoolTogether_round.png",
-      "size": 20,
-      "volume": 74.0
-    },
-    {
-      "id": "Mozaic Finance",
-      "title": "Mozaic Finance",
-      "shape": "image",
-      "image": "images/Mozaic Finance_round.png",
-      "size": 20,
-      "volume": 141.0
-    },
-    {
-      "id": "Bebop",
-      "title": "Bebop",
-      "shape": "image",
-      "image": "images/Bebop_round.png",
-      "size": 20,
-      "volume": 242.0
-    },
-    {
-      "id": "Swoop Exchange",
-      "title": "Swoop Exchange",
-      "shape": "image",
-      "image": "images/Swoop Exchange_round.png",
-      "size": 20,
-      "volume": 122.0
-    },
-    {
-      "id": "BAS3D",
-      "title": "BAS3D",
-      "shape": "image",
-      "image": "images/BAS3D_round.png",
-      "size": 20,
-      "volume": 95.0
-    },
-    {
-      "id": "Satellite",
-      "title": "Satellite",
-      "shape": "image",
-      "image": "images/Satellite_round.png",
-      "size": 20,
-      "volume": 88.0
-    },
-    {
-      "id": "Pancake Swap",
-      "title": "Pancake Swap",
-      "shape": "image",
-      "image": "images/Pancake Swap_round.png",
-      "size": 20,
-      "volume": 161.0
-    },
-    {
-      "id": "PWNDAO",
-      "title": "PWNDAO",
-      "shape": "image",
-      "image": "images/PWNDAO_round.png",
-      "size": 20,
-      "volume": 92.0
-    },
-    {
-      "id": "ODOS protocol",
-      "title": "ODOS protocol",
-      "shape": "image",
-      "image": "images/ODOS protocol_round.png",
-      "size": 20,
-      "volume": 110.0
-    },
-    {
-      "id": "Mellow Protocol",
-      "title": "Mellow Protocol",
-      "shape": "image",
-      "image": "images/Mellow Protocol_round.png",
-      "size": 20,
-      "volume": 99.0
-    },
-    {
-      "id": "Moonwell",
-      "title": "Moonwell",
-      "shape": "image",
-      "image": "images/Moonwell_round.png",
-      "size": 20,
-      "volume": 152.0
-    },
-    {
-      "id": "Beam",
-      "title": "Beam",
-      "shape": "image",
-      "image": "images/Beam_round.png",
-      "size": 20,
-      "volume": 165.0
-    },
-    {
-      "id": "Symbiosis",
-      "title": "Symbiosis",
-      "shape": "image",
-      "image": "images/Symbiosis_round.png",
-      "size": 20,
-      "volume": 105.0
-    },
-    {
-      "id": "Peanut Protocol",
-      "title": "Peanut Protocol",
-      "shape": "image",
-      "image": "images/Peanut Protocol_round.png",
-      "size": 20,
-      "volume": 72.0
-    },
-    {
-      "id": "CoinBrain",
-      "title": "CoinBrain",
-      "shape": "image",
-      "image": "images/CoinBrain_round.png",
-      "size": 20,
-      "volume": 76.0
-    },
-    {
-      "id": "Jumper Exchange",
-      "title": "Jumper Exchange",
-      "shape": "image",
-      "image": "images/Jumper Exchange_round.png",
-      "size": 20,
-      "volume": 730.0
-    },
-    {
-      "id": "Mes Protocol",
-      "title": "Mes Protocol",
-      "shape": "image",
-      "image": "images/Mes Protocol_round.png",
-      "size": 20,
-      "volume": 1727.0
-    },
-    {
-      "id": "Portals.fi",
-      "title": "Portals.fi",
-      "shape": "image",
-      "image": "images/Portals.fi_round.png",
-      "size": 20,
-      "volume": 75.0
-    },
-    {
-      "id": "Squid",
-      "title": "Squid",
-      "shape": "image",
-      "image": "images/Squid_round.png",
-      "size": 20,
-      "volume": 54.0
-    },
-    {
-      "id": "Safe",
-      "title": "Safe",
-      "shape": "image",
-      "image": "images/Safe_round.png",
-      "size": 20,
-      "volume": 51.0
-    },
-    {
-      "id": "Orbiter Finance",
-      "title": "Orbiter Finance",
-      "shape": "image",
-      "image": "images/Orbiter Finance_round.png",
-      "size": 20,
-      "volume": 73.0
-    },
-    {
-      "id": "aave",
-      "title": "aave",
-      "shape": "image",
-      "image": "images/aave_round.png",
-      "size": 20,
-      "volume": 39.0
-    },
-    {
-      "id": "Compound",
-      "title": "Compound",
-      "shape": "image",
-      "image": "images/Compound_round.png",
-      "size": 20,
-      "volume": 29.0
-    },
-    {
-      "id": "Volmex Finance",
-      "title": "Volmex Finance",
-      "shape": "image",
-      "image": "images/Volmex Finance_round.png",
-      "size": 20,
-      "volume": 21.0
-    },
-    {
-      "id": "TimeSwap",
-      "title": "TimeSwap",
-      "shape": "image",
-      "image": "images/TimeSwap_round.png",
-      "size": 20,
-      "volume": 31.0
-    },
-    {
-      "id": "Gauntlet Network",
-      "title": "Gauntlet Network",
-      "shape": "image",
-      "image": "images/Gauntlet Network_round.png",
-      "size": 20,
-      "volume": 23.0
-    },
-    {
-      "id": "Matcha",
-      "title": "Matcha",
-      "shape": "image",
-      "image": "images/Matcha_round.png",
-      "size": 20,
-      "volume": 48.0
-    },
-    {
-      "id": "Zapper",
-      "title": "Zapper",
-      "shape": "image",
-      "image": "images/Zapper_round.png",
-      "size": 20,
-      "volume": 52.0
-    },
-    {
-      "id": "stargate",
-      "title": "stargate",
-      "shape": "image",
-      "image": "images/stargate_round.png",
-      "size": 20,
-      "volume": 40.0
-    },
-    {
-      "id": "curve",
-      "title": "curve",
-      "shape": "image",
-      "image": "images/curve_round.png",
-      "size": 20,
-      "volume": 39.0
-    },
-    {
-      "id": "Via Protocol",
-      "title": "Via Protocol",
-      "shape": "image",
-      "image": "images/Via Protocol_round.png",
-      "size": 20,
-      "volume": 20.0
-    },
-    {
-      "id": "0x",
-      "title": "0x",
-      "shape": "image",
-      "image": "images/0x_round.png",
-      "size": 20,
-      "volume": 27.0
-    },
-    {
-      "id": "Pods",
-      "title": "Pods",
-      "shape": "image",
-      "image": "images/Pods_round.png",
-      "size": 20,
-      "volume": 16.0
-    },
-    {
-      "id": "Zerion",
-      "title": "Zerion",
-      "shape": "image",
-      "image": "images/Zerion_round.png",
-      "size": 20,
-      "volume": 64.0
-    },
-    {
-      "id": "Uniswap",
-      "title": "Uniswap",
-      "shape": "image",
-      "image": "images/Uniswap_round.png",
-      "size": 20,
-      "volume": 54.0
-    },
-    {
-      "id": "Balancer",
-      "title": "Balancer",
-      "shape": "image",
-      "image": "images/Balancer_round.png",
-      "size": 20,
-      "volume": 25.0
-    },
-    {
-      "id": "Beefy Finance",
-      "title": "Beefy Finance",
-      "shape": "image",
-      "image": "images/Beefy Finance_round.png",
-      "size": 20,
-      "volume": 22.0
-    },
-    {
-      "id": "Izumi Finance",
-      "title": "Izumi Finance",
-      "shape": "image",
-      "image": "images/Izumi Finance_round.png",
-      "size": 20,
-      "volume": 33.0
-    },
-    {
-      "id": "QiDao",
-      "title": "QiDao",
-      "shape": "image",
-      "image": "images/QiDao_round.png",
-      "size": 20,
-      "volume": 22.0
-    },
-    {
-      "id": "Synapse Bridge",
-      "title": "Synapse Bridge",
-      "shape": "image",
-      "image": "images/Synapse Bridge_round.png",
-      "size": 20,
-      "volume": 26.0
-    },
-    {
-      "id": "Harvest",
-      "title": "Harvest",
-      "shape": "image",
-      "image": "images/Harvest_round.png",
-      "size": 20,
-      "volume": 14.0
-    },
-    {
-      "id": "Sablier",
-      "title": "Sablier",
-      "shape": "image",
-      "image": "images/Sablier_round.png",
-      "size": 20,
-      "volume": 15.0
-    },
-    {
-      "id": "OpenOcean",
-      "title": "OpenOcean",
-      "shape": "image",
-      "image": "images/OpenOcean_round.png",
-      "size": 20,
-      "volume": 31.0
-    },
-    {
-      "id": "deBridge",
-      "title": "deBridge",
-      "shape": "image",
-      "image": "images/deBridge_round.png",
-      "size": 20,
-      "volume": 18.0
-    },
-    {
-      "id": "Kyber Network",
-      "title": "Kyber Network",
-      "shape": "image",
-      "image": "images/Kyber Network_round.png",
-      "size": 20,
-      "volume": 24.0
-    },
-    {
-      "id": "Slingshot",
-      "title": "Slingshot",
-      "shape": "image",
-      "image": "images/Slingshot_round.png",
-      "size": 20,
-      "volume": 20.0
-    },
-    {
-      "id": "DODO",
-      "title": "DODO",
-      "shape": "image",
-      "image": "images/DODO_round.png",
-      "size": 20,
-      "volume": 27.0
-    },
-    {
-      "id": "sushiswap",
-      "title": "sushiswap",
-      "shape": "image",
-      "image": "images/sushiswap_round.png",
-      "size": 20,
-      "volume": 33.0
-    },
-    {
-      "id": "Mean Finance",
-      "title": "Mean Finance",
-      "shape": "image",
-      "image": "images/Mean Finance_round.png",
-      "size": 20,
-      "volume": 19.0
-    }
+    [
+      {
+        "id": "coralorca",
+        "title": "coralorca",
+        "shape": "image",
+        "image": "images/coralorca_round.png",
+        "size": 20
+      },
+      {
+        "id": "nounsdao",
+        "title": "nounsdao",
+        "shape": "image",
+        "image": "images/nounsdao_round.png",
+        "size": 20
+      },
+      {
+        "id": "opensea",
+        "title": "opensea",
+        "shape": "image",
+        "image": "images/opensea_round.png",
+        "size": 20
+      },
+      {
+        "id": "bitstrays",
+        "title": "bitstrays",
+        "shape": "image",
+        "image": "images/bitstrays_round.png",
+        "size": 20
+      },
+      {
+        "id": "_forager",
+        "title": "_forager",
+        "shape": "image",
+        "image": "images/_forager_round.png",
+        "size": 20
+      },
+      {
+        "id": "artismyweapon_",
+        "title": "artismyweapon_",
+        "shape": "image",
+        "image": "images/artismyweapon__round.png",
+        "size": 20
+      },
+      {
+        "id": "FootyNouns",
+        "title": "FootyNouns",
+        "shape": "image",
+        "image": "images/FootyNouns_round.png",
+        "size": 20
+      },
+      {
+        "id": "gnars_dao",
+        "title": "gnars_dao",
+        "shape": "image",
+        "image": "images/gnars_dao_round.png",
+        "size": 20
+      },
+      {
+        "id": "tallyxyz",
+        "title": "tallyxyz",
+        "shape": "image",
+        "image": "images/tallyxyz_round.png",
+        "size": 20
+      },
+      {
+        "id": "SubNouns",
+        "title": "SubNouns",
+        "shape": "image",
+        "image": "images/SubNouns_round.png",
+        "size": 20
+      },
+      {
+        "id": "0xsvg",
+        "title": "0xsvg",
+        "shape": "image",
+        "image": "images/0xsvg_round.png",
+        "size": 20
+      },
+      {
+        "id": "punk4156",
+        "title": "punk4156",
+        "shape": "image",
+        "image": "images/punk4156_round.png",
+        "size": 20
+      },
+      {
+        "id": "nermanbot",
+        "title": "nermanbot",
+        "shape": "image",
+        "image": "images/nermanbot_round.png",
+        "size": 20
+      },
+      {
+        "id": "observablehq",
+        "title": "observablehq",
+        "shape": "image",
+        "image": "images/observablehq_round.png",
+        "size": 20
+      },
+      {
+        "id": "NounCats",
+        "title": "NounCats",
+        "shape": "image",
+        "image": "images/NounCats_round.png",
+        "size": 20
+      },
+      {
+        "id": "cryptoralphnft",
+        "title": "cryptoralphnft",
+        "shape": "image",
+        "image": "images/cryptoralphnft_round.png",
+        "size": 20
+      },
+      {
+        "id": "devloper_eth",
+        "title": "devloper_eth",
+        "shape": "image",
+        "image": "images/devloper_eth_round.png",
+        "size": 20
+      },
+      {
+        "id": "NounsSpace",
+        "title": "NounsSpace",
+        "shape": "image",
+        "image": "images/NounsSpace_round.png",
+        "size": 20
+      },
+      {
+        "id": "pbrianandj",
+        "title": "pbrianandj",
+        "shape": "image",
+        "image": "images/pbrianandj_round.png",
+        "size": 20
+      },
+      {
+        "id": "ShinyCreator",
+        "title": "ShinyCreator",
+        "shape": "image",
+        "image": "images/ShinyCreator_round.png",
+        "size": 20
+      },
+      {
+        "id": "jl2fa",
+        "title": "jl2fa",
+        "shape": "image",
+        "image": "images/jl2fa_round.png",
+        "size": 20
+      },
+      {
+        "id": "thenouneys",
+        "title": "thenouneys",
+        "shape": "image",
+        "image": "images/thenouneys_round.png",
+        "size": 20
+      },
+      {
+        "id": "visualizevalue",
+        "title": "visualizevalue",
+        "shape": "image",
+        "image": "images/visualizevalue_round.png",
+        "size": 20
+      },
+      {
+        "id": "yolonouns",
+        "title": "yolonouns",
+        "shape": "image",
+        "image": "images/yolonouns_round.png",
+        "size": 20
+      }
+    ]
   ],
-  "edges": [
-    { "from": "ibc.fun", "to": "echelonfnd", "width": 5.1 },
-    { "from": "Payflow", "to": "backedfi", "width": 7.1 },
-    { "from": "DODO", "to": "Peanut Protocol", "width": 6.1 },
-    { "from": "Portals.fi", "to": "Orbiter Finance", "width": 6.1 },
-    { "from": "Mean Finance", "to": "Tea", "width": 10.1 },
-    { "from": "Zapper", "to": "Harvest", "width": "3.1" },
-    { "from": "sushiswap", "to": "Peanut Protocol", "width": 4.3 },
-
-    { "from": "base", "to": "frenpetonbase", "width": 8.0 },
-    { "from": "builderfi", "to": "Tea", "width": 8.162 },
-    { "from": "TalentProtocol", "to": "OpenCover", "width": 8.115 },
-    { "from": "AerodromeFi", "to": "Astaria", "width": 8.185 },
-    { "from": "backedfi", "to": "ibc.fun", "width": 8.115 },
-    { "from": "echelonfnd", "to": "TIME Token Finance", "width": 8.132 },
-    { "from": "degentokenbase", "to": "Amet Finance", "width": 8.154 },
-    { "from": "cartesiproject", "to": "Seamless", "width": 8.246 },
-    { "from": "LayerZero", "to": "frenpetonbase", "width": 8.585 },
-
-    { "from": "InterSwap", "to": "base", "width": 3.382 },
-    { "from": "Payflow", "to": "AerodromeFi", "width": 3.385 },
-    { "from": "DAOSquare", "to": "backedfi", "width": 3.37 },
-    { "from": "FortyTwo", "to": "echelonfnd", "width": 3.371 },
-    { "from": "UCF Finance", "to": "TalentProtocol", "width": 3.358 },
-    { "from": "Plena - Crypto Super App", "to": "LayerZero", "width": 3.391 },
-    { "from": "Sparkfi", "to": "degentokenbase", "width": 3.366 },
-    { "from": "Rubic", "to": "cartesiproject", "width": 3.385 },
-    { "from": "Kook", "to": "builderfi", "width": 3.363 },
-    { "from": "ZeroDev", "to": "AerodromeFi", "width": 3.382 },
-    { "from": "Onthis", "to": "base", "width": 3.391 },
-    { "from": "Flooz", "to": "frenpetonbase", "width": 3.396 },
-    { "from": "Notum", "to": "base", "width": 3.426 },
-    { "from": "Loopcrypto", "to": "TalentProtocol", "width": 3.36 },
-    { "from": "PoolTogether", "to": "cartesiproject", "width": 3.358 },
-    { "from": "Mozaic Finance", "to": "backedfi", "width": 3.38 },
-    { "from": "Bebop", "to": "LayerZero", "width": 3.414 },
-    { "from": "Swoop Exchange", "to": "builderfi", "width": 3.374 },
-    { "from": "BAS3D", "to": "echelonfnd", "width": 3.365 },
-    { "from": "Satellite", "to": "degentokenbase", "width": 3.363 },
-    { "from": "Pancake Swap", "to": "AerodromeFi", "width": 3.387 },
-    { "from": "PWNDAO", "to": "base", "width": 3.364 },
-    { "from": "ODOS protocol", "to": "TalentProtocol", "width": 3.37 },
-    { "from": "Mellow Protocol", "to": "frenpetonbase", "width": 3.366 },
-
-    { "from": "Payflow", "to": "AerodromeFi", "width": 2.5385 },
-    { "from": "DAOSquare", "to": "backedfi", "width": 2.52775 },
-    { "from": "FortyTwo", "to": "echelonfnd", "width": 2.5285 },
-    { "from": "UCF Finance", "to": "TalentProtocol", "width": 2.51875 },
-    { "from": "Plena - Crypto Super App", "to": "LayerZero", "width": 2.54325 },
-    { "from": "Sparkfi", "to": "degentokenbase", "width": 2.52475 },
-    { "from": "Rubic", "to": "cartesiproject", "width": 2.53875 },
-    { "from": "Kook", "to": "builderfi", "width": 2.52225 },
-    { "from": "ZeroDev", "to": "AerodromeFi", "width": 2.5365 },
-    { "from": "Onthis", "to": "base", "width": 2.5435 },
-    { "from": "Flooz", "to": "frenpetonbase", "width": 2.54725 },
-    { "from": "Notum", "to": "base", "width": 2.56975 },
-    { "from": "Loopcrypto", "to": "TalentProtocol", "width": 2.52025 },
-    { "from": "PoolTogether", "to": "cartesiproject", "width": 2.5185 },
-    { "from": "Mozaic Finance", "to": "backedfi", "width": 2.53525 },
-    { "from": "Bebop", "to": "LayerZero", "width": 2.5605 },
-    { "from": "Swoop Exchange", "to": "builderfi", "width": 2.5305 },
-    { "from": "BAS3D", "to": "echelonfnd", "width": 2.52375 },
-    { "from": "Satellite", "to": "degentokenbase", "width": 2.522 },
-    { "from": "Pancake Swap", "to": "AerodromeFi", "width": 2.54025 },
-    { "from": "PWNDAO", "to": "base", "width": 2.523 },
-    { "from": "ODOS protocol", "to": "TalentProtocol", "width": 2.5275 },
-    { "from": "Mellow Protocol", "to": "frenpetonbase", "width": 2.52475 },
-    { "from": "Moonwell", "to": "InterSwap", "width": 1.903125 },
-    { "from": "Beam", "to": "Payflow", "width": 1.925625 },
-    { "from": "Symbiosis", "to": "DAOSquare", "width": 1.388125 },
-    { "from": "Peanut Protocol", "to": "FortyTwo", "width": 1.165 },
-    { "from": "CoinBrain", "to": "UCF Finance", "width": 1.28125 },
-    {
-      "from": "Jumper Exchange",
-      "to": "Plena - Crypto Super App",
-      "width": 2.875
-    },
-    { "from": "Mes Protocol", "to": "Sparkfi", "width": 2.32875 },
-    { "from": "Portals.fi", "to": "Rubic", "width": 1.4375 },
-    { "from": "Squid", "to": "Kook", "width": 0.891875 },
-    { "from": "Safe", "to": "ZeroDev", "width": 0.9775 },
-    { "from": "Orbiter Finance", "to": "Onthis", "width": 1.070625 },
-    { "from": "aave", "to": "Flooz", "width": 0.891875 },
-    { "from": "Compound", "to": "Notum", "width": 0.854375 },
-    { "from": "Volmex Finance", "to": "Loopcrypto", "width": 0.63125 },
-    { "from": "TimeSwap", "to": "PoolTogether", "width": 0.653125 },
-    { "from": "Gauntlet Network", "to": "Mozaic Finance", "width": 0.66125 },
-    { "from": "Matcha", "to": "Bebop", "width": 0.9925 },
-    { "from": "Zapper", "to": "Swoop Exchange", "width": 0.975 },
-    { "from": "stargate", "to": "BAS3D", "width": 0.655625 },
-    { "from": "curve", "to": "Satellite", "width": 0.65875 },
-    { "from": "Via Protocol", "to": "Pancake Swap", "width": 0.725625 },
-    { "from": "0x", "to": "PWNDAO", "width": 0.666875 },
-    { "from": "Pods", "to": "ODOS protocol", "width": 0.66 },
-    { "from": "Zerion", "to": "Mellow Protocol", "width": 1.005 },
-    { "from": "Uniswap", "to": "InterSwap", "width": 1.04625 },
-
-    { "from": "Balancer", "to": "Synapse Bridge", "width": 8.0 },
-    { "from": "Beefy Finance", "to": "Harvest", "width": 5.0 },
-    { "from": "Izumi Finance", "to": "OpenOcean", "width": 6.0 },
-    { "from": "QiDao", "to": "Sablier", "width": 7.0 },
-    { "from": "Synapse Bridge", "to": "deBridge", "width": 5.0 },
-    { "from": "Harvest", "to": "Kyber Network", "width": 6.0 },
-    { "from": "Sablier", "to": "Slingshot", "width": 7.0 },
-    { "from": "deBridge", "to": "DODO", "width": 8.0 },
-    { "from": "Kyber Network", "to": "sushiswap", "width": 5.0 },
-    { "from": "Slingshot", "to": "Mean Finance", "width": 6.0 },
-    { "from": "DODO", "to": "Balancer", "width": 7.0 },
-    { "from": "sushiswap", "to": "Beefy Finance", "width": 8.0 },
-    { "from": "Mean Finance", "to": "Izumi Finance", "width": 5.0 }
-  ]
+  "edges": [{ "from": "ibc.fun", "to": "echelonfnd", "width": 5.1 }]
 }
