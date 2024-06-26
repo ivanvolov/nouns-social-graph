@@ -1,175 +1,221 @@
 {
   "nodes": [
-    [
-      {
-        "id": "coralorca",
-        "title": "coralorca",
-        "shape": "image",
-        "image": "images/coralorca_round.png",
-        "size": 20
-      },
-      {
-        "id": "nounsdao",
-        "title": "nounsdao",
-        "shape": "image",
-        "image": "images/nounsdao_round.png",
-        "size": 20
-      },
-      {
-        "id": "opensea",
-        "title": "opensea",
-        "shape": "image",
-        "image": "images/opensea_round.png",
-        "size": 20
-      },
-      {
-        "id": "bitstrays",
-        "title": "bitstrays",
-        "shape": "image",
-        "image": "images/bitstrays_round.png",
-        "size": 20
-      },
-      {
-        "id": "_forager",
-        "title": "_forager",
-        "shape": "image",
-        "image": "images/_forager_round.png",
-        "size": 20
-      },
-      {
-        "id": "artismyweapon_",
-        "title": "artismyweapon_",
-        "shape": "image",
-        "image": "images/artismyweapon__round.png",
-        "size": 20
-      },
-      {
-        "id": "FootyNouns",
-        "title": "FootyNouns",
-        "shape": "image",
-        "image": "images/FootyNouns_round.png",
-        "size": 20
-      },
-      {
-        "id": "gnars_dao",
-        "title": "gnars_dao",
-        "shape": "image",
-        "image": "images/gnars_dao_round.png",
-        "size": 20
-      },
-      {
-        "id": "tallyxyz",
-        "title": "tallyxyz",
-        "shape": "image",
-        "image": "images/tallyxyz_round.png",
-        "size": 20
-      },
-      {
-        "id": "SubNouns",
-        "title": "SubNouns",
-        "shape": "image",
-        "image": "images/SubNouns_round.png",
-        "size": 20
-      },
-      {
-        "id": "0xsvg",
-        "title": "0xsvg",
-        "shape": "image",
-        "image": "images/0xsvg_round.png",
-        "size": 20
-      },
-      {
-        "id": "punk4156",
-        "title": "punk4156",
-        "shape": "image",
-        "image": "images/punk4156_round.png",
-        "size": 20
-      },
-      {
-        "id": "nermanbot",
-        "title": "nermanbot",
-        "shape": "image",
-        "image": "images/nermanbot_round.png",
-        "size": 20
-      },
-      {
-        "id": "observablehq",
-        "title": "observablehq",
-        "shape": "image",
-        "image": "images/observablehq_round.png",
-        "size": 20
-      },
-      {
-        "id": "NounCats",
-        "title": "NounCats",
-        "shape": "image",
-        "image": "images/NounCats_round.png",
-        "size": 20
-      },
-      {
-        "id": "cryptoralphnft",
-        "title": "cryptoralphnft",
-        "shape": "image",
-        "image": "images/cryptoralphnft_round.png",
-        "size": 20
-      },
-      {
-        "id": "devloper_eth",
-        "title": "devloper_eth",
-        "shape": "image",
-        "image": "images/devloper_eth_round.png",
-        "size": 20
-      },
-      {
-        "id": "NounsSpace",
-        "title": "NounsSpace",
-        "shape": "image",
-        "image": "images/NounsSpace_round.png",
-        "size": 20
-      },
-      {
-        "id": "pbrianandj",
-        "title": "pbrianandj",
-        "shape": "image",
-        "image": "images/pbrianandj_round.png",
-        "size": 20
-      },
-      {
-        "id": "ShinyCreator",
-        "title": "ShinyCreator",
-        "shape": "image",
-        "image": "images/ShinyCreator_round.png",
-        "size": 20
-      },
-      {
-        "id": "jl2fa",
-        "title": "jl2fa",
-        "shape": "image",
-        "image": "images/jl2fa_round.png",
-        "size": 20
-      },
-      {
-        "id": "thenouneys",
-        "title": "thenouneys",
-        "shape": "image",
-        "image": "images/thenouneys_round.png",
-        "size": 20
-      },
-      {
-        "id": "visualizevalue",
-        "title": "visualizevalue",
-        "shape": "image",
-        "image": "images/visualizevalue_round.png",
-        "size": 20
-      },
-      {
-        "id": "yolonouns",
-        "title": "yolonouns",
-        "shape": "image",
-        "image": "images/yolonouns_round.png",
-        "size": 20
-      }
-    ]
+    {
+      "id": "coralorca",
+      "title": "coralorca",
+      "shape": "image",
+      "image": "images/coralorca_round.png",
+      "size": 20
+    },
+    {
+      "id": "nounsdao",
+      "title": "nounsdao",
+      "shape": "image",
+      "image": "images/nounsdao_round.png",
+      "size": 20
+    },
+    {
+      "id": "opensea",
+      "title": "opensea",
+      "shape": "image",
+      "image": "images/opensea_round.png",
+      "size": 20
+    },
+    {
+      "id": "bitstrays",
+      "title": "bitstrays",
+      "shape": "image",
+      "image": "images/bitstrays_round.png",
+      "size": 20
+    },
+    {
+      "id": "_forager",
+      "title": "_forager",
+      "shape": "image",
+      "image": "images/_forager_round.png",
+      "size": 20
+    },
+    {
+      "id": "artismyweapon_",
+      "title": "artismyweapon_",
+      "shape": "image",
+      "image": "images/artismyweapon__round.png",
+      "size": 20
+    },
+    {
+      "id": "FootyNouns",
+      "title": "FootyNouns",
+      "shape": "image",
+      "image": "images/FootyNouns_round.png",
+      "size": 20
+    },
+    {
+      "id": "gnars_dao",
+      "title": "gnars_dao",
+      "shape": "image",
+      "image": "images/gnars_dao_round.png",
+      "size": 20
+    },
+    {
+      "id": "tallyxyz",
+      "title": "tallyxyz",
+      "shape": "image",
+      "image": "images/tallyxyz_round.png",
+      "size": 20
+    },
+    {
+      "id": "SubNouns",
+      "title": "SubNouns",
+      "shape": "image",
+      "image": "images/SubNouns_round.png",
+      "size": 20
+    },
+    {
+      "id": "0xsvg",
+      "title": "0xsvg",
+      "shape": "image",
+      "image": "images/0xsvg_round.png",
+      "size": 20
+    },
+    {
+      "id": "punk4156",
+      "title": "punk4156",
+      "shape": "image",
+      "image": "images/punk4156_round.png",
+      "size": 20
+    },
+    {
+      "id": "nermanbot",
+      "title": "nermanbot",
+      "shape": "image",
+      "image": "images/nermanbot_round.png",
+      "size": 20
+    },
+    {
+      "id": "observablehq",
+      "title": "observablehq",
+      "shape": "image",
+      "image": "images/observablehq_round.png",
+      "size": 20
+    },
+    {
+      "id": "NounCats",
+      "title": "NounCats",
+      "shape": "image",
+      "image": "images/NounCats_round.png",
+      "size": 20
+    },
+    {
+      "id": "cryptoralphnft",
+      "title": "cryptoralphnft",
+      "shape": "image",
+      "image": "images/cryptoralphnft_round.png",
+      "size": 20
+    },
+    {
+      "id": "devloper_eth",
+      "title": "devloper_eth",
+      "shape": "image",
+      "image": "images/devloper_eth_round.png",
+      "size": 20
+    },
+    {
+      "id": "NounsSpace",
+      "title": "NounsSpace",
+      "shape": "image",
+      "image": "images/NounsSpace_round.png",
+      "size": 20
+    },
+    {
+      "id": "pbrianandj",
+      "title": "pbrianandj",
+      "shape": "image",
+      "image": "images/pbrianandj_round.png",
+      "size": 20
+    },
+    {
+      "id": "ShinyCreator",
+      "title": "ShinyCreator",
+      "shape": "image",
+      "image": "images/ShinyCreator_round.png",
+      "size": 20
+    },
+    {
+      "id": "jl2fa",
+      "title": "jl2fa",
+      "shape": "image",
+      "image": "images/jl2fa_round.png",
+      "size": 20
+    },
+    {
+      "id": "thenouneys",
+      "title": "thenouneys",
+      "shape": "image",
+      "image": "images/thenouneys_round.png",
+      "size": 20
+    },
+    {
+      "id": "visualizevalue",
+      "title": "visualizevalue",
+      "shape": "image",
+      "image": "images/visualizevalue_round.png",
+      "size": 20
+    },
+    {
+      "id": "yolonouns",
+      "title": "yolonouns",
+      "shape": "image",
+      "image": "images/yolonouns_round.png",
+      "size": 20
+    }
   ],
-  "edges": [{ "from": "ibc.fun", "to": "echelonfnd", "width": 5.1 }]
+  "_edges": [
+    { "to": "FootyNouns", "from": "opensea", "width": 1.287 },
+    { "from": "devloper_eth", "to": "NounCats", "width": 2.093 },
+    { "to": "SubNouns", "from": "opensea", "width": 1.309 },
+    { "from": "ShinyCreator", "to": "punk4156", "width": 1.368 },
+    { "from": "pbrianandj", "to": "tallyxyz", "width": 2.91 },
+    { "from": "_forager", "to": "thenouneys", "width": 1.711 },
+    { "from": "coralorca", "to": "nermanbot", "width": 1.794 },
+    { "from": "thenouneys", "to": "tallyxyz", "width": 2.079 },
+    { "from": "cryptoralphnft", "to": "NounCats", "width": 2.891 },
+    { "from": "observablehq", "to": "gnars_dao", "width": 1.286 },
+    { "from": "visualizevalue", "to": "jl2fa", "width": 1.438 },
+    { "from": "ShinyCreator", "to": "punk4156", "width": 2.339 },
+    { "from": "visualizevalue", "to": "cryptoralphnft", "width": 2.367 },
+    { "from": "NounsSpace", "to": "NounCats", "width": 2.771 },
+    { "from": "tallyxyz", "to": "FootyNouns", "width": 1.596 },
+    { "from": "artismyweapon_", "to": "punk4156", "width": 1.358 },
+    { "from": "yolonouns", "to": "tallyxyz", "width": 2.506 },
+    { "from": "pbrianandj", "to": "bitstrays", "width": 2.194 },
+    { "from": "tallyxyz", "to": "ShinyCreator", "width": 1.668 },
+    { "from": "tallyxyz", "to": "thenouneys", "width": 1.511 },
+    { "from": "cryptoralphnft", "to": "devloper_eth", "width": 1.718 },
+    { "from": "pbrianandj", "to": "coralorca", "width": 2.048 },
+    { "from": "observablehq", "to": "tallyxyz", "width": 1.633 }
+  ],
+  "edges": [
+    { "from": "bitstrays", "to": "pbrianandj", "width": 2.753 },
+    { "from": "pbrianandj", "to": "devloper_eth", "width": 2.104 },
+    { "from": "artismyweapon_", "to": "FootyNouns", "width": 2.174 },
+    { "from": "NounCats", "to": "observablehq", "width": 1.149 },
+    { "from": "thenouneys", "to": "pbrianandj", "width": 2.091 },
+    { "from": "nounsdao", "to": "nermanbot", "width": 1.369 },
+    { "from": "punk4156", "to": "NounsSpace", "width": 1.661 },
+    { "from": "observablehq", "to": "NounsSpace", "width": 1.651 },
+    { "from": "thenouneys", "to": "bitstrays", "width": 1.314 },
+    { "from": "punk4156", "to": "pbrianandj", "width": 1.258 },
+    { "from": "visualizevalue", "to": "tallyxyz", "width": 1.856 },
+    { "from": "NounsSpace", "to": "ShinyCreator", "width": 2.035 },
+    { "from": "gnars_dao", "to": "coralorca", "width": 2.083 },
+    { "from": "opensea", "to": "yolonouns", "width": 2.182 },
+    { "from": "opensea", "to": "0xsvg", "width": 1.836 },
+    { "from": "pbrianandj", "to": "_forager", "width": 2.567 },
+    { "from": "artismyweapon_", "to": "observablehq", "width": 1.302 },
+    { "from": "artismyweapon_", "to": "observablehq", "width": 2.515 },
+    { "from": "opensea", "to": "devloper_eth", "width": 1.268 },
+    { "from": "pbrianandj", "to": "devloper_eth", "width": 1.085 },
+    { "from": "NounsSpace", "to": "nounsdao", "width": 2.623 },
+    { "from": "observablehq", "to": "devloper_eth", "width": 2.267 }
+  ]
 }

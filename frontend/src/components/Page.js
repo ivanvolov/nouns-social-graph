@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "./Card";
+import Graph from "./Graph";
 import community from "../data/community.json";
 import ConnectButton from "./ConnectButton";
 
@@ -10,9 +10,6 @@ const Page = () => {
                 <nav class="navbar">
                     <div class="container">
                         <div class="logo">
-                            {/* <a href="#">
-                                <img src="./logo.png" alt="img1" height="50px" />
-                            </a> */}
                             <div class="userDetails">
                                 <div class="profilepic">
                                     <div class="profile_img">
@@ -21,7 +18,7 @@ const Page = () => {
                                         </div>
                                     </div>
                                 </div>
-                                <h3>Base social graph</h3>
+                                <h3>Nouns social graph</h3>
                             </div>
                         </div>
                         <div class="nav-links">
@@ -54,51 +51,8 @@ const Page = () => {
                     </div>
                 </nav>
             </header>
-
-            <div class="main">
-                <div class="container">
-                    <div class="col-9">
-                        <Card
-                            initialData={community}
-                            date="2 days ago"
-                            node_cont={community.nodes.length}
-                            title={"Base | Community"}
-                        />
-                    </div>
-                    <div className="col-3 settings-container">
-                        <div className="select-container">
-                            <label htmlFor="listBox">Categories:</label>
-                            <select id="listBox" name="listBox" className="form-select">
-                                <option value="option1">All categories</option>
-                                <option value="option2">DeFi</option>
-                                <option value="option3">NFT</option>
-                            </select>
-                        </div>
-                        <div className="button-group">
-                            <button className="btn btn-primary" type="button">
-                                Filter
-                            </button>
-                            <button className="btn btn-secondary" type="button">
-                                Apply mask
-                            </button>
-                        </div>
-                        <div className="slider-container">
-                            <label htmlFor="slider1">Connection thickness:</label>
-                            <input type="range" id="slider1" name="slider1" min="0" max="100" />
-                        </div>
-                        <div className="button-group" style={{ display: "flex", justifyContent: "space-between" }}>
-                            <button className="btn btn btn-info" type="button">
-                                Hide projects
-                            </button>
-                            <button className="btn btn btn-success" type="button">
-                                Hide people
-                            </button>
-                            <button className="btn btn btn-info" type="button">
-                                Base only
-                            </button>
-                        </div>
-                    </div>
-                </div>
+            <div style={{ height: "100vh" }}>
+                <Graph __data={community}></Graph>
             </div>
         </div>
     );

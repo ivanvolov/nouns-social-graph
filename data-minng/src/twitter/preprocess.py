@@ -20,7 +20,8 @@ for index, row in top_20_data.iterrows():
         "image": f'images/{row["Name"]}_round.png',
         "size": 20,
     }
-    json_array.append(json_entry)
+    # json_array.append(json_entry)
+    json_array.append(row['Name'])
 
 # Convert the list to JSON format
 json_output = json.dumps(json_array, indent=2)
