@@ -1,4 +1,5 @@
 selenium
+tweepy
 python-dotenv
 Pillow
 pandas

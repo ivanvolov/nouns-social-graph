@@ -1,6 +1,6 @@
 import React from "react";
 import Graph from "./Graph";
-import community from "../data/community.json";
+import community from "../data/community2.json";
 import ConnectButton from "./ConnectButton";
 
 const Page = () => {
